@@ -18,6 +18,6 @@ Mapped the Normalized tables as a Physical Data Model
 ![normalized](image/normalized1.png)
 ## Here's the Physical Data Model
 
-##Files
-[normalized](file/cleanedData.xlsx)
-[finish file](file/Finish%20Data%20-%20Luna%2CJonathan.xlsx)
+## Files
+- [normalized](file/cleanedData.xlsx)
+- [finish file](file/Finish%20Data%20-%20Luna%2CJonathan.xlsx)
