@@ -16,5 +16,5 @@ Beyond academics, I love experimenting with new coding projects, exploring advan
 - Elementary: Cutud Elementary School
 
 ## My Projects
-- Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](Midterm%20Lab%20Task%201/README.md)
+- Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](midterm%20Lab%20Task%201)
 - Midterm Lab Task 2: [Data Modeling using Power Query]()
