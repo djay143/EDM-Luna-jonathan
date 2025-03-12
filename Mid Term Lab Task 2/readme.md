@@ -57,11 +57,14 @@ Remove Unnecessary Columns:
 Proof of Data Cleaning:
 
 Copy and paste the applied steps from the Power Query Editor for documentation.
+
 ## 4. Final Output (Screenshot of the Final Queries)
 ![Final Queries](file/luna%201.png)
 ![Final Queries](file/luna4.png)
 ![Final Queries](file/luna7.png)
 ![Final Queries](file/luna2.png)
+## Dependencies and References of the QUERIES
+![Dependencies and References of the QUERIES](file/luna3.png)
 ### Final Queries:
 The final queries should consist of the following cleaned and transformed datasets:
 
