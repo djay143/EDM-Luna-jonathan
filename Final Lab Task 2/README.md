@@ -3,32 +3,31 @@ For this task, we are given an ER diagram representing student assignment submis
 
 Here’s the screenshot of Query Statements (See screenshots)
 
-![Sample Output](images/student_code.png)
+![Sample Output](images/STUDENTS.1.PNG)
 
-![Sample Output](images/assignment_code.png)
+![Sample Output](images/ASSIGNMENTS.1.PNG)
 
-![Sample Output](images/submission.code.png)
+![Sample Output](images/SUBMISSION.1.PNG)
 
 Here's the screenshot of Table Structure (See screenshots)
 
 Student table
 
   
-![Sample Output](images/student_tbl.png)
+![Sample Output](images/STUDENTS.1.PNG)
 
 Assignment table
 
   
-![Sample Output](images/assignment_tbl.png)
-
+![Sample Output](images/ASSIGNMENTS.1.PNG)
 Submission table
 
   
-![Sample Output](images/submission_tbl.png)
+![Sample Output](images/SUBMISSION.1.PNG)
 
 Here's the ER Diagram or Relational Schema
 
-![Sample Output](images/diagram.png)
+![Sample Output](images/DIAGRAM.1.PNG)
 
 SQL copy of the database and table structures
 
