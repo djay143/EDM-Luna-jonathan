@@ -18,5 +18,5 @@ Beyond academics, I love experimenting with new coding projects, exploring advan
 ## My Projects
 - Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](midterm%20Lab%20Task%201)
 - Midterm Lab Task 2: [Data Modeling using Power Query](Mid%20Term%20Lab%20Task%202)
-- Midterm Lab Task 3: [Creating Pivot Table and Dashboard](Mid%20term%20Lab%20Task%203)
+- Midterm Lab Task 3: [Creating Pivot Table and Dashboard](Mid%20term%20Lab%20Task%203/README.md)
 - Final Lab Task 1: [Multi Level Company Database](Final%20Lab%20Task%201/README.md)
