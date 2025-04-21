@@ -18,7 +18,7 @@ CREATE TABLE employees (
 ```
 ### EMPLOYEES TABLE STRUCTURE
 
-![sample Output](images/TASK2.1.PNG)
+![sample Output](images/TASK1.1.PNG)
 
 ---
 
