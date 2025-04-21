@@ -28,7 +28,3 @@ Submission table
 Here's the ER Diagram or Relational Schema
 
 ![Sample Output](images/DIAGRAM.1.PNG)
-
-SQL copy of the database and table structures
-
-![Sample Output](images/task2_code.png)
