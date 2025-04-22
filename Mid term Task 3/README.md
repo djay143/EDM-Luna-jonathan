@@ -1,4 +1,4 @@
-# Mid term Lab Task 3 - Creating PIVOT TABLE and DASHBOARD
+# Mid term Lab Task 3. Creating PIVOT TABLE and DASHBOARD
 
 ### Step 1: Prepare Your Data
 - **Worksheet on Uncleaned DS Jobs**: You’ll need to clean and transform the data into a more usable format for analysis. Ensure that the data contains columns for roles, states, company size, sector, and salary.
