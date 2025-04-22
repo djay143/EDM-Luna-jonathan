@@ -1,4 +1,4 @@
-## Midterm Lab Task 2 – Data Cleaning and Transformation Using Power Query Editor
+## Midterm Lab Task 2. Data Cleaning and Transformation Using Power Query Editor
 
 ## Task Overview:
 The objective of this task is to clean and transform a raw dataset of job postings, provided in the "Uncleaned_DS_jobs.csv" file, using Power Query Editor in Excel. Company X is interested in extracting insights that answer the following questions:
