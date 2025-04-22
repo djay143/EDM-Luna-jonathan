@@ -1,13 +1,42 @@
 ## Finals Lab Task 2. Transforming ER Model to Relational Tables
 For this task, we are given an ER diagram representing student assignment submissions, which we need to convert into MySQL tables.
 
-Here’s the screenshot of Query Statements (See screenshots)
+Here’s the Query Statements
 
-![Sample Output](images/STUDENTS.1.PNG)
+Fisrt, a command that create a database as the active database, so subsequent SQL operations will be performed within that specific database.
+```sql
+CREATE DATABASE student_assignments;
+SHOW DATABASES;
 
-![Sample Output](images/ASSIGNMENTS.1.PNG)
-
-![Sample Output](images/SUBMISSION.1.PNG)
+USE student_assignments;
+```
+Student Query Statements
+```sql
+CREATE TABLE student (
+    username VARCHAR(50) PRIMARY KEY
+);
+```
+Assignment Query Statements
+```sql
+CREATE TABLE assignment (
+    shortname VARCHAR(50) PRIMARY KEY,
+    due_date DATE NOT NULL,
+    url VARCHAR(255)
+);
+```
+Submission Query Statements
+```sql
+CREATE TABLE submission (
+    username VARCHAR(50),
+    shortname VARCHAR(50),
+    version INT,
+    submit_date DATE NOT NULL,
+    data TEXT,
+    PRIMARY KEY (username, shortname, version),
+    FOREIGN KEY (username) REFERENCES student(username),
+    FOREIGN KEY (shortname) REFERENCES assignment(shortname)
+);
+```
 
 Here's the screenshot of Table Structure (See screenshots)
 
