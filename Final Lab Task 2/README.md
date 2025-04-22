@@ -55,6 +55,6 @@ Here's the screenshot of Table Structure (See screenshots)
   
 ![Sample Output](images/SUBMISSION.1.PNG)
 
-Here's the ### ER Diagram or ### Relational Schema
+Here's the ER Diagram or Relational Schema
 
 ![Sample Output](images/DIAGRAM.1.PNG)
