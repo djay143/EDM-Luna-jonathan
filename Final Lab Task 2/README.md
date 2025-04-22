@@ -6,8 +6,6 @@ Here’s the Query Statements
 Fisrt, a command that create a database as the active database, so subsequent SQL operations will be performed within that specific database.
 ```sql
 CREATE DATABASE student_assignments;
-SHOW DATABASES;
-
 USE student_assignments;
 ```
 ### Student Query Statements
