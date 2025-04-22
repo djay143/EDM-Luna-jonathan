@@ -10,13 +10,13 @@ SHOW DATABASES;
 
 USE student_assignments;
 ```
-Student Query Statements
+# Student Query Statements
 ```sql
 CREATE TABLE student (
     username VARCHAR(50) PRIMARY KEY
 );
 ```
-Assignment Query Statements
+# Assignment Query Statements
 ```sql
 CREATE TABLE assignment (
     shortname VARCHAR(50) PRIMARY KEY,
@@ -24,7 +24,7 @@ CREATE TABLE assignment (
     url VARCHAR(255)
 );
 ```
-Submission Query Statements
+# Submission Query Statements
 ```sql
 CREATE TABLE submission (
     username VARCHAR(50),
@@ -40,16 +40,17 @@ CREATE TABLE submission (
 
 Here's the screenshot of Table Structure (See screenshots)
 
-Student table
+# Student table
 
   
 ![Sample Output](images/STUDENTS.1.PNG)
 
-Assignment table
+# Assignment table
 
   
 ![Sample Output](images/ASSIGNMENTS.1.PNG)
-Submission table
+
+# Submission table
 
   
 ![Sample Output](images/SUBMISSION.1.PNG)
