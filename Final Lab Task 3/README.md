@@ -44,14 +44,10 @@ This command is used in MySQL Workbench to display the structure of the table, s
 ```sql
 DESCRIBE products;
 ```
-Here's the screenshot of whole Query Statements (See screenshots)
 
- ### The Query Statements
- 
-![Sample Output](images/PRODUCTSLAB3.PNG)
-
-Here's the screenshot of Table Structure (See screenshots)
 
 ### Product Table
-  
-![Sample Output](images/PRODUCTS.1.PNG)
+
+Here's the screenshot of the whole Query Statements and Table Structure (See screenshots)
+ 
+![Sample Output](images/PRODUCTSLAB3.PNG)
