@@ -5,18 +5,18 @@ Here’s the Query Statements
 
 Fisrt, a command that create a database as the active database, so subsequent SQL operations will be performed within that specific database.
 ```sql
-CREATE DATABASE student_assignments;
-USE student_assignments;
+CREATE DATABASE student_submissions;
+USE student_submissions;
 ```
 ### Student Query Statements
 ```sql
-CREATE TABLE student (
+CREATE TABLE students (
     username VARCHAR(50) PRIMARY KEY
 );
 ```
 ### Assignment Query Statements
 ```sql
-CREATE TABLE assignment (
+CREATE TABLE assignments (
     shortname VARCHAR(50) PRIMARY KEY,
     due_date DATE NOT NULL,
     url VARCHAR(255)
@@ -31,8 +31,8 @@ CREATE TABLE submission (
     submit_date DATE NOT NULL,
     data TEXT,
     PRIMARY KEY (username, shortname, version),
-    FOREIGN KEY (username) REFERENCES student(username),
-    FOREIGN KEY (shortname) REFERENCES assignment(shortname)
+    FOREIGN KEY (username) REFERENCES students(username),
+    FOREIGN KEY (shortname) REFERENCES assignments(shortname)
 );
 ```
 
