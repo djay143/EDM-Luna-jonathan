@@ -50,10 +50,15 @@ DESCRIBE products;
 
 Here's the screenshot of the whole Query Statements and Table Structure (See screenshots)
  
-![Sample Output](images/PRODUCTSLAB3.PNG)
+![Sample Output](images/LAB3.png)
 
 ### Product's Value Table
 
 Here's the screenshot of the Query Statements and Table Structure (See screenshots)
  
 ![Sample Output](images/VALUES.png)
+
+### ER Diagram or Relational Schema
+
+![Sample Output](images/ER3.png)
+
