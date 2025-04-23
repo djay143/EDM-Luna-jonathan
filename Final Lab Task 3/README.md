@@ -54,6 +54,6 @@ Here's the screenshot of the whole Query Statements and Table Structure (See scr
 
 ### Product's Value Table
 
-Here's the screenshot of the whole Query Statements and Table Structure (See screenshots)
+Here's the screenshot of the Query Statements and Table Structure (See screenshots)
  
 ![Sample Output](images/VALUES.png)
