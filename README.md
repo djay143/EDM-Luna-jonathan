@@ -22,3 +22,4 @@ Beyond academics, I love experimenting with new coding projects, exploring advan
 - Final Lab Task 1: [Multi Level Company Database](Final%20Lab%20Task%201/README.md)
 - Final Lab Task 2: [Transform ER into Relational Tables](Final%20Lab%20Task%202/README.md)
 - Final Lab Task 3: [Table Manipulation](Final%20Lab%20Task%203/README.md)
+- Final Lab Task 3.1: [Using SELECT CLAUSE](Final%20Lab%20Task%203.1/README.md)
