@@ -46,22 +46,22 @@ Here's the screenshot of the whole Query Statements and Table Structure (See scr
 
 ### TASK 1
 
-![Sample Output](images/LAB3TASK1.1.png)
+![Sample Output](images/LAB3TASK1.1.PNG)
 
 ### TASK 2
 
-![Sample Output](images/LAB3TASK2.1.png)
+![Sample Output](images/LAB3TASK2.1.PNG)
 
 ### TASK 3
 
-![Sample Output](images/LAB3TASK3.1.png)
+![Sample Output](images/LAB3TASK3.1.PNG)
 
 ### TASK 4
 
-![Sample Output](images/LAB3TASK4.1.png)
+![Sample Output](images/LAB3TASK4.1.PNG)
 
 ### TASK 5
 
-![Sample Output](images/LAB3TASK5.1.png)
+![Sample Output](images/LAB3TASK5.1.PNG)
 
 
