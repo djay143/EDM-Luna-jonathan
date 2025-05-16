@@ -13,7 +13,7 @@ For this task, we are given initial query creates reusable views, procedures, an
 
 ### TASK 3
 
-![Sample Output](images/lab_3.png)
+![Sample Output](images/task_3.png)
 
 ### TASK 4
 
